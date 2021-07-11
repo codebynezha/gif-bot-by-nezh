@@ -10,7 +10,7 @@ const embed = new Discord.MessageEmbed()
 .setColor(`RANDOM`)
 .setThumbnail(message.author.avatarURL({dynamic: "true"}))
 .setTitle(`**invite**`)
-.setDescription(`[Click here](linke bott dane)`)
+.setDescription(`[Click here](https://discord.com/api/oauth2/authorize?client_id=863719625300639764&permissions=8&scope=bot)`)
 .setFooter(`Requested by ${message.author.username}#${message.author.discriminator}`, message.member.user.displayAvatarURL({ dynamic: true }))    
 message.channel.send({embed});
 }
