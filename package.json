@@ -1,10 +1,10 @@
 {
-  "name": "shvan",
+  "name": "FiiX",
   "version": "0.0.1",
-  "description": "bot gif v12 by shvan",
-  "main": "shvan.js",
+  "description": "bot gif v12 by FiiX",
+  "main": "FiiX.js",
   "scripts": {
-    "start": "node shvan.js"
+    "start": "node FiiX.js"
   },
   "dependencies": {
     "express": "^4.17.1",
