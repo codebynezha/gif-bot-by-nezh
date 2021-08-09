@@ -25,7 +25,7 @@ const embed = new Discord.MessageEmbed()
 \&snap\`\&dev\'\&ghot\`\&flet\'
 \&rules\`\&welcome\'
 **Links**
-**[Invite](https://discord.com/api/oauth2/authorize?client_id=863719625300639764&permissions=8&scope=bot) - [Server Support](https://discord.gg/nKxJHKPpkK)**
+**[Invite]() - [Server Support]()**
 `)
     
 message.channel.send({embed});
